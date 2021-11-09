@@ -16,3 +16,19 @@
 修修补补终于算是毕业了，这个项目也大概不会再维护了，算是研究生工作的一点简单记录吧。
 
 再见，南京！再见，东南大学！再见，四牌楼校区！
+
+%% English Translation of the above text:
+Application of signal sparse recovery algorithm in bearing fault diagnosis. Mainly research sparse recovery algorithm:
+
+Greedy Algorithm
+Orthogonal Matching Pursuit (OMP)
+Stagewise Orthogonal Matching Pursuit (Stagewise Orthogonal Matching Pursuit, StOMP)
+Cluster-contraction Stagewise Orthogonal Matching Pursuit (CcStOMP)
+Convex optimization algorithm
+Iterative Shrinkage Thresholding (IST)
+Local-enhanced Iterative Shrinkage Thresholding (LeIST)
+A paper related to the matching pursuit algorithm
+
+The tinkering is finally considered as a graduate, and this project will probably not be maintained anymore. It can be regarded as a simple record of the work of a graduate student.
+
+Goodbye, Nanjing! Goodbye, Southeast University! Goodbye, Sipailou campus!
